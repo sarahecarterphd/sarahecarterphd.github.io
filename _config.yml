@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "webpic.png"
+  avatar           : "webpic.PNG"
   name             : "Sarah E. Carter"
-  pronouns         : "she/her"  
+  pronouns         : "Scientist-Ethicist"  
   bio              : "Interdisciplinary researcher interested in ethical design of emerging digital technologies"
   location         : "Delft, the Netherlands"
   employer         : "TU Delft"
