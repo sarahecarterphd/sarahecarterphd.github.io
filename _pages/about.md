@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Designing Technology Centered on our Personal Values"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an ethicist and scientist interested in ethical design of emerging digital technologies, conducting work at the intersection of philosophy, psychology, and design. I’m particularly passionate about designing systems centered on our personal values to promote human autonomy. To accomplish this, I utilize both conceptual and empirical investigations to bridge philosophical insights into practice. My areas of specialization include information ethics, AI ethics, bioethics, data privacy, value-sensitive design, HCI, and the psychology of decision-making. For my interdisciplinary PhD at the University of Galway, I researched how to promote more meaningful, value-driven privacy choices on our smartphones. I also hold a master’s degree in biomedical science (Utrecht University) and a bachelor’s degree in biochemistry (major) and music (minor) (Mount Holyoke College). I’m currently a postdoctoral researcher in AI Ethics at TU Delft (funded by the Dutch National Digital Society Program). In her role, she organizes events to bring together diverse scholars to explore meaningful human-AI interaction and conducts her own research into promoting human autonomy through mental health chatbot design. She also greatly enjoys mentoring and teaching students with diverse interdisciplinary interests. Having grown up in the North Woods of Minnesota, I am passionate about nature and enjoy birding, hiking, and taking long walks. I also enjoy yoga, meditation, and playing upright and electric bass (jazz, blues, rock, and classical music).
 
-A data-driven personal website
+Test - webpage in progress
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
