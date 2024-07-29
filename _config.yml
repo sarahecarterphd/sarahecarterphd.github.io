@@ -252,10 +252,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _coaching
   - scope:
       path: ""
-      type: portfolio
+      type: coaching
     values:
       layout: single
       author_profile: true
