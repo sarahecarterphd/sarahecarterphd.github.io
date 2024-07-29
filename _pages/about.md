@@ -1,28 +1,28 @@
 ---
 permalink: /
-title: "Designing Technology Centered on our Personal Values"
+title: "Technology Centered on Who We Are and What We Value"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an ethicist and scientist interested in ethical design of emerging digital technologies, conducting work at the intersection of philosophy, psychology, and design. I’m particularly passionate about designing systems centered on our personal values to promote human autonomy. To accomplish this, I utilize both conceptual and empirical investigations to bridge philosophical insights into practice. My areas of specialization include information ethics, AI ethics, bioethics, data privacy, value-sensitive design, HCI, and the psychology of decision-making. For my interdisciplinary PhD at the University of Galway, I researched how to promote more meaningful, value-driven privacy choices on our smartphones. I also hold a master’s degree in biomedical science (Utrecht University) and a bachelor’s degree in biochemistry (major) and music (minor) (Mount Holyoke College). I’m currently a postdoctoral researcher in AI Ethics at TU Delft (funded by the Dutch National Digital Society Program). In her role, she organizes events to bring together diverse scholars to explore meaningful human-AI interaction and conducts her own research into promoting human autonomy through mental health chatbot design. She also greatly enjoys mentoring and teaching students with diverse interdisciplinary interests. Having grown up in the North Woods of Minnesota, I am passionate about nature and enjoy birding, hiking, and taking long walks. I also enjoy yoga, meditation, and playing upright and electric bass (jazz, blues, rock, and classical music).
+Too often, we feel like technology has a hold of us, rather than using it to live the lives we value. It’s my firm belief that all technology and innovation should be grounded in who we are and what we value. In my research, I explore how we can design technology in a manner that empowers us and puts us back in the driver seat. 
 
-Test - webpage in progress
+Designing Technology Centered on our Personal Values
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+In particular, I look at how we can design technology to help us make more value-centered decisions when interacting with technology. To do this, I take insights from philosophy concerning human autonomy and translate them into design criteria, taking cues from other disciplines such as the psychology of decision-making, HCI, and value-sensitive design.
 
-Getting started
+Work at TU Delft
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+In my current role, I’m also lucky to have the opportunity to teach and supervise the engineers and scientists of the future. As an educator, I encourage my students to emphatically consider the future people who will eventually be using the technology they will be building, including asking the tough questions: who is this technology for? Who is left out? Why is the technology being built? Are there other solutions? If we want technology that serves us, we need empathic engineers and scientists that are attuned to and willing to anticipate our needs. 
+
+Looking forward
+======
+
+In the future, I wish to fulfill my dream of helping others by nurturing the next generation of scientist, continuing to teach ethics to scientists and engineers. I also wish to coach others on how to use technology in a manner that is fulfilling for their life or business. To accomplish this, I will be attending ICF-approved coach training and develop a model to help others use technology in a manner consistent with their values.
 
 Site-wide configuration
 ------
