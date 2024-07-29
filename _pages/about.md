@@ -12,7 +12,7 @@ Hello! My name is Sarah, and I'm a researcher, teacher, and (aspiring) coach pas
 Researcher
 ======
 
-Too often, we feel like technology has a hold of us, rather than using it to live the lives we value. In my research, I explore how we can design technology in a manner that empowers us and puts us back in the driver's seat. In particular, I look at how we can design systems to help us make more value-centered decisions when interacting with technology. To do this, I take insights from philosophy concerning human autonomy and translate them into design criteria, taking cues from other disciplines such as the psychology of decision-making, HCI, and value-sensitive design.
+Too often, we feel like technology has a hold of us, rather than using it to live the lives we value. In my research, I explore how we can design technology in a manner that empowers us and puts us back in the driver's seat. In particular, I look at how we can design systems to help us make more value-centered decisions when interacting with technology. To do this, I take insights from philosophy concerning human autonomy and translate them into design criteria, taking cues from other disciplines such as the psychology of decision-making, human-computer interaction, and value-sensitive design.
 
 Teacher
 ======
