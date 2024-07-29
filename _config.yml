@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "webpic.PNG"
+  avatar           : "webpic_final.png"
   name             : "Sarah E. Carter"
   pronouns         : "she/her"  
   bio              : "Scientist // Ethicist // Teacher // Coach"
