@@ -13,14 +13,14 @@ author_profile: true
 *Topic: autonomy-preserving nudges in chatbots
 
 **April 2024 – June 2024:** Bachelor Thesis Supervisor, 5 students, TU Delft, Delft, the Netherlands
-* Topics: [Feminist critiques of AI fairness metrics](https://www.linkedin.com/posts/scientist-ethicist_feminism-feministai-aifairness-activity-7212447082563993600-AuDW?utm_source=share&utm_medium=member_desktop)
+*Topics: [Feminist critiques of AI fairness metrics](https://www.linkedin.com/posts/scientist-ethicist_feminism-feministai-aifairness-activity-7212447082563993600-AuDW?utm_source=share&utm_medium=member_desktop)
 
 **April 2024:	Invited Speaker and Panelist,** Designing for Values: Responsible Generative AI in Healthcare, Malaysian Medics International in Ireland annual student conference, Online  
 
 **Dec. 2023	Invited Workshop Speaker,** Ethics Deep Dive: Responsible AI and LLMs in Healthcare, Erasmus Medical Center Education Day, Rotterdam, the Netherlands
 
 **Nov. 2023 – present, Master’s Thesis Supervisor,** 2 students, TU Delft, Delft, the Netherlands 
-* Projects: Contrastive explanations for LLMs; Improving hate speech detection
+*Projects: Contrastive explanations for LLMs; Improving hate speech detection
 
 **Nov. 2022	Workshop Speaker and Mentor,** [A Smart Office for Whom?](https://members.loria.fr/KFort/teaching/write-your-dystopia-ethics/), Write Your Dystopia (PhD Workshop), LORIA, Université de Lorraine Nancy, France  
 
