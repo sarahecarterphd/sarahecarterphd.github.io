@@ -2,6 +2,7 @@
 layout: archive
 title: "Education"
 permalink: /education/
+author_profile: true
 ---
 
 **2023: Doctor of Philosophy (PhD)**, philosophy, University of Galway, Galway, Ireland
