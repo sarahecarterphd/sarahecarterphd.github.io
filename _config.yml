@@ -231,6 +231,16 @@ defaults:
       author_profile: false
       share: true
       comments: true
+ # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
+
   
 # Sass/SCSS
 sass:
