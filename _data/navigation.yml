@@ -2,7 +2,7 @@
 main:
   - title: "Education"
     url: /education/
-  - title: "Publications"
+  - title: "Publications and Conference Contributions"
     url: /publications/
 
   - #title: "Talks"
