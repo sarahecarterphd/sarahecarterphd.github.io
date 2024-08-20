@@ -216,7 +216,7 @@ defaults:
   # _education
   - scope:
       path: ""
-      type: teaching
+      type: education
     values:
       layout: single
       author_profile: true
