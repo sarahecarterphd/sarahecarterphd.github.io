@@ -4,9 +4,6 @@ title: "Education"
 permalink: /education/
 ---
 
-Summary
-======
-
 **2023: Doctor of Philosophy (PhD)**, philosophy, University of Galway, Galway, Ireland
 * Recipient of the Science Foundation Ireland D-REAL Scholarship
 
@@ -35,5 +32,5 @@ For my PhD position, I also, again, had to familiarize myself with new literatur
 
 Doctorate in hand, I had now established myself as an applied ethicist. I next took the step to **TU Delft** and became a postdoctoral researcher in AI Ethics at TU Delft (funded by the Dutch National Digital Society Program). In this role, I continue to conduct interdisciplinary research at the intersection of science and society. This includes working on human autonomy in mental health chatbot design; contrastive explanations and AI explainability; and AI fairness from a feminist perspective.
 
-For more on the research presented here, be sure to check out the “Publications” tab at the top of the website!
+For more on the research presented here, be sure to check out the **“Publications”** tab at the top of the website!
 
