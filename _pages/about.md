@@ -23,3 +23,6 @@ Coach
 ======
 
 In the future, I also wish to coach others on how to use technology in a manner that is fulfilling for their life or business. To accomplish this, I will be attending ICF-approved coach training course and develop a model **to help others use technology in a manner consistent with their values.** Stay tuned! 
+
+
+**This website is a work in progress. More to come!**
