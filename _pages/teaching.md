@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**June 2024:	Invited Lecturer,** Ethics, Values, and Alignment, Natural Language Processing (Master’s level), TU Delft, Delft, the Netherlands
+**June 2024: Invited Lecturer,** Ethics, Values, and Alignment, Natural Language Processing (Master’s level), TU Delft, Delft, the Netherlands
 
 **May 2024 – June 2024:	Tutor,** Philosophy of Science, Engineering, and Technology (Master’s level), TU Delft, Delft, the Netherlands
 
@@ -17,14 +17,14 @@ author_profile: true
 
 **April 2024:	Invited Speaker and Panelist,** Designing for Values: Responsible Generative AI in Healthcare, Malaysian Medics International in Ireland annual student conference, Online  
 
-**Dec. 2023:	Invited Workshop Speaker,** Ethics Deep Dive: Responsible AI and LLMs in Healthcare, Erasmus Medical Center Education Day, Rotterdam, the Netherlands
+**Dec. 2023: Invited Workshop Speaker,** Ethics Deep Dive: Responsible AI and LLMs in Healthcare, Erasmus Medical Center Education Day, Rotterdam, the Netherlands
 
 **Nov. 2023 – present: Master’s Thesis Supervisor,** 2 students, TU Delft, Delft, the Netherlands 
 * Projects: Contrastive explanations for LLMs; Improving hate speech detection
 
-**Nov. 2022	Workshop Speaker and Mentor,** [A Smart Office for Whom?](https://members.loria.fr/KFort/teaching/write-your-dystopia-ethics/), Write Your Dystopia (PhD Workshop), LORIA, Université de Lorraine Nancy, France  
+**Nov. 2022:	Workshop Speaker and Mentor,** [A Smart Office for Whom?](https://members.loria.fr/KFort/teaching/write-your-dystopia-ethics/), Write Your Dystopia (PhD Workshop), LORIA, Université de Lorraine Nancy, France  
 
-**June 2022	Discussion Leader**, Privacy Is(n't) Dead: Reclaiming Our Data in Today's Online World, Mount Holyoke College European Alumnae Symposium: Building a More Just Society, the Hague, the Netherlands
+**June 2022:	Discussion Leader,** Privacy Is(n't) Dead: Reclaiming Our Data in Today's Online World, Mount Holyoke College European Alumnae Symposium: Building a More Just Society, the Hague, the Netherlands
 
 **Sept. 2020 – Dec. 2020: Teaching Assistant,** Practical Ethics, University of Galway, Galway, Ireland
 
