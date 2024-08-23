@@ -11,7 +11,7 @@ author_profile: true
 
 **April 2024: Invited Speaker,** The Importance of Personal Values for Ethical Research, ICT.Open, Utrecht, the Netherlands
 
-**Feb. 2024: PhD Thesis,** [A Value-centered Approach to Data Privacy Decisions](https://researchrepository.universityofgalway.ie/entities/publication/8ed0ab0e-f773-4b8e-8c00-655edd00cef4), University of Galway, Galway, Ireland
+**Sept. 2023: PhD Thesis,** [A Value-centered Approach to Data Privacy Decisions](https://researchrepository.universityofgalway.ie/entities/publication/8ed0ab0e-f773-4b8e-8c00-655edd00cef4), University of Galway, Galway, Ireland
 
 **June 2023: Conference Publication and Presentation,** [Legal-Ethical Challenges and Technological Solutions to e-Health Data Consent in the EU](https://ebooks.iospress.nl/volumearticle/63336), HHAI2023, Munich, Germany
 
