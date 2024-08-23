@@ -12,7 +12,7 @@ author_profile: true
 **May 2024 – June 2024:	Project Supervisor,** 5 students, Crowd Computing (Master’s level), TU Delft, Delft, the Netherlands
 * Topic: Autonomy-preserving nudges in chatbots
 
-**April 2024 – June 2024:** Bachelor Thesis Supervisor, 5 students, TU Delft, Delft, the Netherlands
+**April 2024 – June 2024: Bachelor Thesis Supervisor,** 5 students, TU Delft, Delft, the Netherlands
 * Topics: [Feminist critiques of AI fairness metrics](https://www.linkedin.com/posts/scientist-ethicist_feminism-feministai-aifairness-activity-7212447082563993600-AuDW?utm_source=share&utm_medium=member_desktop)
 
 **April 2024:	Invited Speaker and Panelist,** Designing for Values: Responsible Generative AI in Healthcare, Malaysian Medics International in Ireland annual student conference, Online  
