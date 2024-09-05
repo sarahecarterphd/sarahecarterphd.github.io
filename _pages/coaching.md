@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: "Coaching"
+title: "Value-Centered Technology Coaching"
 permalink: /Coaching/
 author_profile: true
 ---
 
-
-
-Value-Centered Technology Coaching
-======
 
 Do you feel like the "tech" in your life is serving you, or you are serving "it"? How can you re-imagine your relationship with technology to help you live the life you want to - one that is in accordance with your goals and values? 
 
