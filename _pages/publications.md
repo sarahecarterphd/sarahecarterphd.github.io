@@ -5,18 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Upcoming:**
-
-**September 2024: Conference Presentation,** That's Too Personal: Defining the Limits of Personalization in Mental Health Chatbots, fPET 2024, Karlsruhe, Germany
-
-**October 2024: Conference Presentation,** Preserving Autonomy: The “Dos” and “Don’ts” of Mental Health Chatbot Personalization, ESDiT and 4TU 2024 Conference, Enschede, the Netherlands
-
-**December 2024 (expected): Publication,** In Pursuit of Privacy: The Value-Centered Privacy Assistant, preprint available [here](https://arxiv.org/abs/2212.00528)
-
-**June 2025 (accepted): Publication,** How Do We Value Data Privacy? Insights and Design Implications, Engineering and Value Change (Springer Series on Philosophy of Engineering and Technology)
-
-**Previous:**
-
 **April 2024: Invited Panelist,** Meaningful Human-AI Interaction, Digital Society Conference, Utrecht, the Netherlands
 
 **April 2024: Conference Presentation,** A Value-Centered Privacy Assistant for Smartphone App Selection, ICT.Open, Utecht, the Netherlands
@@ -51,4 +39,13 @@ author_profile: true
 
 **April 2017: 	Poster Presenter,** Research-derived Experiments for the Undergraduate Teaching Laboratory, American Chemical Society National Meeting, San Francisco, United States
 
+Upcoming
+======
 
+**September 2024: Conference Presentation,** That's Too Personal: Defining the Limits of Personalization in Mental Health Chatbots, fPET 2024, Karlsruhe, Germany
+
+**October 2024: Conference Presentation,** Preserving Autonomy: The “Dos” and “Don’ts” of Mental Health Chatbot Personalization, ESDiT and 4TU 2024 Conference, Enschede, the Netherlands
+
+**December 2024 (expected): Publication,** In Pursuit of Privacy: The Value-Centered Privacy Assistant, preprint available [here](https://arxiv.org/abs/2212.00528)
+
+**June 2025 (accepted): Publication,** How Do We Value Data Privacy? Insights and Design Implications, Engineering and Value Change (Springer Series on Philosophy of Engineering and Technology)
