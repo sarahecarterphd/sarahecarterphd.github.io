@@ -240,6 +240,24 @@ defaults:
       author_profile: false
       share: true
       comments: true
+ # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
+ # _coaching
+  - scope:
+      path: ""
+      type: coaching
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
 
   
 # Sass/SCSS
