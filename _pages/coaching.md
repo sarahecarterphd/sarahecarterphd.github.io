@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Coaching"
+permalink: /Coaching/
+author_profile: true
+---
+
+
+
 Value-Centered Technology Coaching
 ======
 
