@@ -16,4 +16,4 @@ Or maybe you are a buisness using AI, social media, targeted online adverising, 
 - 1-on-1 coaching to help you shape how you can harvest the power of "tech" to best serve you
 - Survey tools for buisness to help strategize and plan technology use that reflects their values
 - Workshops for buisness and their employees on value-centered technology use at work
-- And more! 
+- **And more!** 
