@@ -7,7 +7,7 @@ author_profile: true
 
 **Aug. 2024 – present: Member,** Open Science Community Delft, TU Delft
 
-**April 2024:Organization Team Member,** Digital Society Conference, Utrecht, the Netherlands
+**April 2024: Organization Team Member,** Digital Society Conference, Utrecht, the Netherlands
 
 **May 2024 – present: Lead Organizer,** Meaningful Human-AI Interaction Seminar Series (monthly), TU Delft, Delft, the Netherlands
 
@@ -49,4 +49,7 @@ author_profile: true
 **June 2017 – Aug. 2017:	Crew Member,** Cold Stone Creamery, Duluth, Minnesota, the United States of America
 
 **Sept. 2016 – May 2017:	Liaison Advisor,** Biochemistry, Mount Holyoke College, South Hadley, Massachusetts, the United States
+
+
+
 
