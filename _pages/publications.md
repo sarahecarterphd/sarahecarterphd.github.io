@@ -15,6 +15,8 @@ author_profile: true
 
 **June 2023: Conference Publication and Presentation,** [Legal-Ethical Challenges and Technological Solutions to e-Health Data Consent in the EU](https://ebooks.iospress.nl/volumearticle/63336), HHAI2023, Munich, Germany
 
+**April 2023: How Do We Value Data Privacy? Insights and Design Implications,** fPET2023, Delft, the Netherlands
+
 **Nov. 2022:	Publication,** [A Value-centered Exploration of Data Privacy and Personalized Privacy Assistants](https://link.springer.com/article/10.1007/s44206-022-00028-w), Digital Society
 
 **June 2022:	Doctoral Consortium Participant,** Fairness, Accountability, and Transparency Conference (FAccT), Seoul, South Korea
