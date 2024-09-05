@@ -10,12 +10,12 @@ main:
 
   - title: "Teaching, Supervision, and Mentorship"
     url: /teaching/    
+
+  - title: "Outreach, Volunteering, and Other"
+    url: /outreach/
     
-  - #title: "Portfolio"
-    #url: /portfolio/
-        
-  - #title: "Blog Posts"
-    #url: /year-archive/
+  - title: "Value-centered Coaching"
+    url: /coaching/
     
   - #title: "CV"
     #url: /cv/
