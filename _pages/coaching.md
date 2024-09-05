@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Value-Centered Technology Coaching"
-permalink: /Coaching/
+permalink: /coaching/
 author_profile: true
 ---
 
