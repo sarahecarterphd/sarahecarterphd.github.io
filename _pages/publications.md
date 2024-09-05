@@ -46,6 +46,6 @@ Upcoming
 
 **October 2024: Conference Presentation,** Preserving Autonomy: The “Dos” and “Don’ts” of Mental Health Chatbot Personalization, ESDiT and 4TU 2024 Conference, Enschede, the Netherlands
 
-**December 2024 (expected): Publication,** In Pursuit of Privacy: The Value-Centered Privacy Assistant, preprint available [here](https://arxiv.org/abs/2212.00528)
+**December 2024 (expected): Publication,** In Pursuit of Privacy: The Value-Centered Privacy Assistant, preprint available [here](https://arxiv.org/abs/2212.00528)](https://arxiv.org/abs/2308.05700)
 
 **June 2025 (accepted): Publication,** How Do We Value Data Privacy? Insights and Design Implications, Engineering and Value Change (Springer Series on Philosophy of Engineering and Technology)
