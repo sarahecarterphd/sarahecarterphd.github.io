@@ -46,8 +46,6 @@ author_profile: true
 **Sept. 2019 – Sept. 2022: Board Member,** Postgraduate Research Society, Galway, Ireland
 * 2-time Presidential Award for Volunteering and 1-time Leadership Award recipient for work with the postgraduate research society 
 
-**June 2017 – Aug. 2017:	Crew Member,** Cold Stone Creamery, Duluth, Minnesota, the United States of America
-
 **Sept. 2016 – May 2017:	Liaison Advisor,** Biochemistry, Mount Holyoke College, South Hadley, Massachusetts, the United States
 
 
