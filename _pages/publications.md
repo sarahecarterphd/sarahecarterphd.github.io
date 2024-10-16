@@ -4,6 +4,9 @@ title: "Publications and Conference Contributions"
 permalink: /publications/
 author_profile: true
 ---
+**September 2024: Conference Presentation,** That's Too Personal: Defining the Limits of Personalization in Mental Health Chatbots, fPET 2024, Karlsruhe, Germany
+
+**October 2024: Conference Presentation,** Preserving Autonomy: The “Dos” and “Don’ts” of Mental Health Chatbot Personalization, ESDiT and 4TU 2024 Conference, Enschede, the Netherlands
 
 **April 2024: Invited Panelist,** Meaningful Human-AI Interaction, Digital Society Conference, Utrecht, the Netherlands
 
@@ -41,10 +44,6 @@ author_profile: true
 
 Upcoming
 ======
-
-**September 2024: Conference Presentation,** That's Too Personal: Defining the Limits of Personalization in Mental Health Chatbots, fPET 2024, Karlsruhe, Germany
-
-**October 2024: Conference Presentation,** Preserving Autonomy: The “Dos” and “Don’ts” of Mental Health Chatbot Personalization, ESDiT and 4TU 2024 Conference, Enschede, the Netherlands
 
 **December 2024 (expected): Publication,** In Pursuit of Privacy: The Value-Centered Privacy Assistant, preprint available [here](https://arxiv.org/abs/2308.05700)
 
