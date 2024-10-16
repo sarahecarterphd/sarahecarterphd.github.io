@@ -9,7 +9,7 @@ author_profile: true
 
 **April 2024: Organization Team Member,** Digital Society Conference, Utrecht, the Netherlands
 
-**May 2024 – present: Lead Organizer,** Meaningful Human-AI Interaction Seminar Series (monthly), TU Delft, Delft, the Netherlands
+**April 2024 – Nov. 2024: Lead Organizer,** Meaningful Human-AI Interaction Seminar Series (monthly), TU Delft, Delft, the Netherlands
 
 **March 2024: Reviewer,** Ethics and Information Technology
 
