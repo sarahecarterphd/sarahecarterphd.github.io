@@ -19,7 +19,7 @@ author_profile: true
 
 **Dec. 2023: Invited Workshop Speaker,** Ethics Deep Dive: Responsible AI and LLMs in Healthcare, Erasmus Medical Center Education Day, Rotterdam, the Netherlands
 
-**Nov. 2023 – present: Master’s Thesis Supervisor,** 2 students, TU Delft, Delft, the Netherlands 
+**Nov. 2023 – Oct. 2024: Master’s Thesis Supervisor,** 2 students, TU Delft, Delft, the Netherlands 
 * Projects: Contrastive explanations for LLMs; Improving hate speech detection
 
 **Nov. 2022:	Workshop Speaker and Mentor,** [A Smart Office for Whom?](https://members.loria.fr/KFort/teaching/write-your-dystopia-ethics/), Write Your Dystopia (PhD Workshop), LORIA, Université de Lorraine Nancy, France  
