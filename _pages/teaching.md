@@ -32,7 +32,14 @@ author_profile: true
 
 **Sept. 2014 – April 2015:	Chemistry Tutor,** General Chemistry, Mount Holyoke College, South Hadley, Massachusetts, the United States of America
 
+Upcoming
+======
 
+**Nov. 2024 - Feb. 2025: Tutor,** Ethics of AI (Master's level), TU Delft, Delft, the Netherlands
+
+**Dec. 2024: Invited Lecturer,** Health Sysems (Master's level), TU Delft, Delft, the Netherlands
+
+**Jan. 2025: Invited Lecturer,** Ethics 101 for NLP, Natural Language Processing (Master's Level), TU Delft, Delft, the Netherlands
 
 My Teaching Philosophy
 ======
