@@ -1,7 +1,11 @@
 # main links links
 main:
+  - title: "Purposely Digital Coaching"
+    url: /coaching/
+    
   - title: "Education"
     url: /education/
+    
   - title: "Publications and Conference Contributions"
     url: /publications/
 
@@ -13,9 +17,7 @@ main:
 
   - title: "Outreach, Volunteering, and Other"
     url: /outreach/
-    
-  - title: "Value-Centered Technology Coaching"
-    url: /coaching/
+
     
   - #title: "CV"
     #url: /cv/
