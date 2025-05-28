@@ -21,7 +21,3 @@ Too often, we feel like technology has a hold of us, rather than using it to liv
 
 During my time in acadmeia, I was also lucky to have the opportunity to teach and supervise the engineers and scientists of the future. As an educator, I encouraged my students to emphatically consider the future people who will eventually be using the technology they will be building, including asking the tough questions: who is this technology for? Who is left out? Why is the technology being built? Are there other solutions? **If we want technology that serves us, we need empathic engineers and scientists that are attuned to and willing to anticipate our needs.** I aimed to serve others by nurturing the next generation of scientist, teaching ethics to scientists and engineers. 
 
-
-
-
-**This website is a work in progress. More to come!**
