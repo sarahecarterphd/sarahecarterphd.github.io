@@ -12,7 +12,7 @@ Hello! My name is Sarah, and I'm **an ICF coach in training and former AI ethics
 Today: Life Coach for Sensitive Humans
 ======
 
-I am currently training to be an ICF-certified coach and found my own coaching business - Purposely Digital. I aim to be a coach that supports sensitive humans to thrive in a digital age that is inherently overwhelming and overstimulating, empowering them to live a life according to their values in the 21st century. Stay tuned!  
+I am currently training to be an ICF-certified coach and found my own coaching business - [Purposely Digital](https://purposely-digital.com). I aim to be a coach that supports sensitive humans to thrive in a digital age that is inherently overwhelming and overstimulating, empowering them to live a life according to their values in the 21st century. Stay tuned!  
 
 Formerly: Researcher and Teacher
 ======
