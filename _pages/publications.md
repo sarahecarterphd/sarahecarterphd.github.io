@@ -4,6 +4,8 @@ title: "Publications and Conference Contributions"
 permalink: /publications/
 author_profile: true
 ---
+**May 2025: Publication,** [How Do We Value Data Privacy? Insights and Design Implications](https://link.springer.com/chapter/10.1007/978-3-031-83549-0_4), Engineering and Value Change (Springer Series on Philosophy of Engineering and Technology)
+
 **September 2024: Conference Presentation,** That's Too Personal: Defining the Limits of Personalization in Mental Health Chatbots, fPET 2024, Karlsruhe, Germany
 
 **October 2024: Conference Presentation,** Preserving Autonomy: The “Dos” and “Don’ts” of Mental Health Chatbot Personalization, ESDiT and 4TU 2024 Conference, Enschede, the Netherlands
@@ -45,6 +47,5 @@ author_profile: true
 Upcoming
 ======
 
-**December 2024 (expected): Publication,** In Pursuit of Privacy: The Value-Centered Privacy Assistant, preprint available [here](https://arxiv.org/abs/2308.05700)
+**Someday: Publication,** In Pursuit of Privacy: The Value-Centered Privacy Assistant, preprint available [here](https://arxiv.org/abs/2308.05700)
 
-**June 2025 (accepted): Publication,** How Do We Value Data Privacy? Insights and Design Implications, Engineering and Value Change (Springer Series on Philosophy of Engineering and Technology)
