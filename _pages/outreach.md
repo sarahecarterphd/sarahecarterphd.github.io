@@ -5,7 +5,7 @@ permalink: /outreach/
 author_profile: true
 ---
 
-**Aug. 2024 – present: Member,** Open Science Community Delft, TU Delft
+**Aug. 2024 – June 2025: Member,** Open Science Community Delft, TU Delft
 
 **April 2024: Organization Team Member,** Digital Society Conference, Utrecht, the Netherlands
 
@@ -47,11 +47,5 @@ author_profile: true
 * 2-time Presidential Award for Volunteering and 1-time Leadership Award recipient for work with the postgraduate research society 
 
 **Sept. 2016 – May 2017:	Liaison Advisor,** Biochemistry, Mount Holyoke College, South Hadley, Massachusetts, the United States
-
-
-The Story: Building Bridges
-======
-
-Coming soon! 
 
 
