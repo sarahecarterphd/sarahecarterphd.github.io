@@ -16,6 +16,4 @@ Purposely Digital helps sensitive humans thrive in a digital age that is inheren
 Check out Purposely Digital at [our new website](https://purposely-digital.com)!
 
 
-**Coming Soon**
-
-- Offical business launch, expected July 2025. New clients welcome! 
+**Now accepting new clients!**
