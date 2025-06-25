@@ -12,9 +12,9 @@ Hello! My name is Sarah, and I'm **a life coach and former AI ethics researcher 
 Today: Life Coach Empowering Sensitive Humans to Thrive in the Digital Age
 ======
 
-I am a life coach focused on sensitive humans and digital wellbeing. In my coaching, I create a **safe and empathetic space** for clients to explore what is possible and find what makes them thrive. My coaching business, **Purposely Digital** [Purposely Digital](https://purposely-digital.com), supports individuals to thrive in a digital age that is inherently overwhelming and overstimulating. As a coach and with my company, **I empower clients** to live a life according to their values in the 21st century.
+I am a life coach focused on sensitive humans and digital wellbeing. In my coaching, I create a **safe and empathetic space** for clients to explore what is possible and find what makes them thrive. My coaching business, [Purposely Digital](https://purposely-digital.com), supports individuals to thrive in a digital age that is inherently overwhelming and overstimulating. As a coach and with my company, **I empower clients** to live a life according to their values in the 21st century.
 
-I am also currently moving towards formal accreditation by the [International Coaching Federation [(https://coachingfederation.org)]. While coaches do not require certification to coach, **becoming ICF-accredited demonstrates a commitment** to ethical standards and a high quality of coaching. I plan to complete all the requirements by the end of 2025. 
+I am also currently moving towards formal accreditation by the [International Coaching Federation](https://coachingfederation.org). While coaches do not require certification to coach, **becoming ICF-accredited demonstrates a commitment** to ethical standards and a high quality of coaching. I plan to complete all the requirements by the end of 2025. 
 
 Formerly: Researcher and Teacher
 ======
