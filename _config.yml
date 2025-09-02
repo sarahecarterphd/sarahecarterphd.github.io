@@ -21,11 +21,11 @@ repository               : "sarahecarterphd/sarahecarterphd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "webpic_final.png"
+  avatar           : "PLN_9793.JPG"
   name             : "Sarah E. Carter"
   pronouns         : "she/her"  
-  bio              : "Life Coach and former Academic"
-  location         : "Cuijk, the Netherlands"
+  bio              : "Coach and AI Ethics Researcher"
+  location         : "The Netherlands"
   employer         : "Purposely Digital"
   uri              : "https://purposely-digital.com"
   email            : "sarah[at]purposely-digital.com" 
