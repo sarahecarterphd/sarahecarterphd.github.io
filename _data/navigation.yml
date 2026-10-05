@@ -1,26 +1,14 @@
 # main links links
 main:
-  - title: "Purposely Digital Coaching"
-    url: /coaching/
-    
-  - title: "Education"
-    url: /education/
+
+  - title: "Research and Education"
+    url: /researchandeducation/
     
   - title: "Publications and Conference Contributions"
     url: /publications/
-
-  - #title: "Talks"
-    #url: /talks/    
 
   - title: "Teaching, Supervision, and Mentorship"
     url: /teaching/    
 
   - title: "Outreach, Volunteering, and Other"
     url: /outreach/
-
-    
-  - #title: "CV"
-    #url: /cv/
-    
-  - #title: "Guide"
-    #url: /markdown/
