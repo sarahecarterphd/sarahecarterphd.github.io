@@ -4,6 +4,9 @@ title: "Publications and Conference Contributions"
 permalink: /publications/
 author_profile: true
 ---
+
+**July 2025: Publication,** [Autonomy by Design: Preserving Human Autonomy in AI Decision-Support](https://link.springer.com/article/10.1007/s13347-025-00932-2), Philosophy and Technology
+
 **May 2025: Publication,** [How Do We Value Data Privacy? Insights and Design Implications](https://link.springer.com/chapter/10.1007/978-3-031-83549-0_4), Engineering and Value Change (Springer Series on Philosophy of Engineering and Technology)
 
 **September 2024: Conference Presentation,** That's Too Personal: Defining the Limits of Personalization in Mental Health Chatbots, fPET 2024, Karlsruhe, Germany
@@ -47,5 +50,5 @@ author_profile: true
 Upcoming
 ======
 
-**Someday: Publication,** In Pursuit of Privacy: The Value-Centered Privacy Assistant, preprint available [here](https://arxiv.org/abs/2308.05700)
+**Publication,** In Pursuit of Privacy: The Value-Centered Privacy Assistant, preprint available [here](https://arxiv.org/abs/2308.05700)
 
