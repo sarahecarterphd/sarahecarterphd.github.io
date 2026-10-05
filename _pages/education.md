@@ -1,21 +1,50 @@
 ---
 layout: archive
-title: "Education"
-permalink: /education/
+title: "Research and Education"
+permalink: /researchandeducation/
 author_profile: true
 ---
 
-**2023: Doctor of Philosophy (PhD)**, philosophy, University of Galway, Galway, Ireland
+Education
+======
+
+**2019 - 2023: Doctor of Philosophy (PhD)**, philosophy, University of Galway, Galway, Ireland
 * Recipient of the Science Foundation Ireland [D-REAL Scholarship](https://d-real.ie/)
 
-**2019: Master’s of Science (MSc)**, biomedical science, Utrecht University, Utrecht, the Netherlands
+**2017 - 2019: Master’s of Science (MSc)**, biomedical science, Utrecht University, Utrecht, the Netherlands
 *	Recipient of the [Utrecht Excellence Scholarship](https://www.uu.nl/en/masters/general-information/application-and-admission/grants-and-scholarships/utrecht-excellence-scholarships)
 
-**2017: Bachelor of Arts (BA)**, biochemistry (major) and music (minor), Mount Holyoke College, South Hadley, Massachusetts, the United States of America
+**2013 - 2017: Bachelor of Arts (BA)**, biochemistry (major) and music (minor), Mount Holyoke College, South Hadley, Massachusetts, the United States of America
 * Magna cum laude	
 * Phi Beta Kappa member (top 10% of students in the United States)
 *	Recipient of the [Sarah Williston Award](https://embark.mtholyoke.edu/osi/the-awards/) (top 15% of class)
 
+Research
+======
+
+**2023 - 2025: Postdoctoral Researcher in AI Ethics**, Web Information Systems Group,Department of Software Technology,TU Delft, Delft, the Netherlands
+* Research: [AI systems to support human autonomy and decision-making](https://philpapers.org/rec/BUIABD-2)
+
+**2019: Visiting PhD Researcher**, Knowledge Representation and Reasoning Group, Vrije Universities Amsterdam, Amsterdam, the Netherlands
+*	Research: Design a [Mock App Store to test a value-centered privacy assistant](https://research.vu.nl/en/publications/a-mock-app-store-interface-for-virtual-privacy-assistants/)
+
+**2019 - 2023: PhD Candidate in AI Ethics and Data Privacy**, Department of Philosophy and the Data Science Institute, University of Galway, Galway, Ireland
+*	Research: [A Value-Centered Approach to Data Privacy Decisions](https://philpapers.org/rec/CARAVA-6)
+
+**2018 - 2019: Research Intern**, Medical Humanities, UMC Utrecht, Utrecht, the Netherlands
+* Research: [Ethics and Governance of Organoid Biobanking for the HIT-CF Project](https://www.sciencedirect.com/science/article/pii/S1569199320309218); Alternative Ethical Oversight of Organoids in Precision Medicine for Rare Disease Research; A Proposal for Ethical Oversight of Organoids in Precision Medicine
+
+* **2017 - 2018: Research Intern**, Regenerative Medicine, UMC Utrecht, Utrecht, the Netherlands
+* Research: Drug Repurposing for Cystic Fibrosis using the Intestinal Organoid Model
+
+* **2016: Summer Undergraduate Research Assistant (SURP) Intern**, Department of Cancer Systems Imaging, MD Anderson Cancer Center, Houston, Texas, the United States of America
+* Research: [Metabolic Comparison of Intestinal Crypt Organoids to Murine Crypts via NMR Metabolomics](https://www.researchgate.net/profile/Joseph-Weygand/publication/322274538_Can_an_Organoid_Recapitulate_the_Metabolome_of_its_Parent_Tissue_A_Pilot_NMR_Spectroscopy_Study/links/5a77095045851541ce5a5727/Can-an-Organoid-Recapitulate-the-Metabolome-of-its-Parent-Tissue-A-Pilot-NMR-Spectroscopy-Study.pdf)**
+
+* **2015 - 2017: Undergraduate Research Assistant**, Organic Chemistry, Mount Holyoke College, South Hadley, Massachusetts, the United States of America
+* Research: Development and Optimization of a Key Nitration Reaction;  Selective Capture of a Transient Sulfenic Acid Species**
+
+* * **2014: Summer Intern**, Essentia Health, Duluth, Minnesota, the United States
+* Research: Internal validation of a new HPV assay for medical molecular biology laboratory use**
 
 The Story: A Biomedical Scientist turned Ethicist
 ======
@@ -32,7 +61,7 @@ After taking this step from the laboratory into ethics, I had found my niche at 
 
 For my PhD position, I also, again, had to familiarize myself with new literature in a variety of disciplines, including philosophy and ethics of technology, psychology, law, and computer science. To collaborate with AI scientists to build a value-centered privacy assistant and testing environment, I also learned the basics of Python and machine learning. In addition, my interdisciplinary communication skills, honed by these experiences, allowed me to present at international conferences to diverse audiences and to create a network of international, interdisciplinary colleagues.
 
-Doctorate in hand, I had now established myself as an applied ethicist. I next took the step to **TU Delft** and became a postdoctoral researcher in AI Ethics (funded by the Dutch National Digital Society Program). In this role, I continued to conduct interdisciplinary research at the intersection of science and society. This included working on human autonomy in mental health chatbot design; contrastive explanations and AI explainability; and AI fairness from a feminist perspective.
+Doctorate in hand, I had now established myself as an applied ethicist. I next took the step to **TU Delft** and became a postdoctoral researcher in AI Ethics (funded by the Dutch National Digital Society Program). In this role, I continued to conduct interdisciplinary research at the intersection of science and society. This included working on human autonomy in AI decision support and mental health chatbot design; contrastive explanations and AI explainability; and AI fairness from a feminist perspective.
 
 For more on the research presented here, be sure to check out the [Publications](https://sarahecarterphd.github.io/publications/) tab at the top of the website!
 
