@@ -5,17 +5,15 @@ permalink: /outreach/
 author_profile: true
 ---
 
-**Aug. 2024 – June 2025: Member,** Open Science Community Delft, TU Delft
-
 **April 2024: Organization Team Member,** Digital Society Conference, Utrecht, the Netherlands
 
-**April 2024 – Nov. 2024: Lead Organizer,** Meaningful Human-AI Interaction Seminar Series (monthly), TU Delft, Delft, the Netherlands
+**May 2024 – June 2025: Lead Organizer,** Meaningful Human-AI Interaction Seminar Series (monthly), TU Delft, Delft, the Netherlands
 
 **March 2024: Reviewer,** Ethics and Information Technology
 
 **March 2024: Reviewer,** HHAI2023 Conference
 
-**Dec. 2023 – present:	Board Member,** Postdoc Society, TU Delft 
+**Dec. 2023 – present: Board Member,** Postdoc Society, TU Delft 
 
 **March 2023: Reviewer,** HHAI2022 Conference
 
