@@ -15,7 +15,7 @@ author_profile: true
 
 **April 2024: Invited Panelist,** Meaningful Human-AI Interaction, Digital Society Conference, Utrecht, the Netherlands
 
-**April 2024: Conference Presentation,** A Value-Centered Privacy Assistant for Smartphone App Selection, ICT.Open, Utecht, the Netherlands
+**April 2024: Conference Presentation,** A Value-Centered Privacy Assistant for Smartphone App Selection, ICT.Open, Utrecht, the Netherlands
 
 **April 2024: Invited Speaker,** The Importance of Personal Values for Ethical Research, ICT.Open, Utrecht, the Netherlands
 
