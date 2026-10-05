@@ -24,7 +24,7 @@ Too often, we feel like technology has a hold of us, rather than empowering us t
 While most of my time today is now spent coaching, I still have keep up to date and ocassionally publish in the AI ethics world. See more on my [Google Scholar](https://scholar.google.com/citations?user=wZm0g4kAAAAJ&hl=en&authuser=1) page. 
 
 
-Teacher: Inspiring Empathetic Engineers
+Teacher: Inspiring Empathetic Researchers
 ======
 
 During my time in academia, I was lucky to have the opportunity to teach and supervise young researchers. As an educator, I encouraged my students to emphatically consider the impact their research and innovations will have on society, including asking the tough questions: who is this technology for? Who is left out? Why is the technology being built? Are there other solutions? **If we want technology that serves us, we need empathic researchers and innovators that are attuned to why and how we innovate.** I aimed to serve others by nurturing the next generation, teaching ethics and responsible research practices to young scientists, researchers, and engineers. 
